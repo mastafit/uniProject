@@ -1,0 +1,8 @@
+Technology stack:
+NodeJS(express) - as a backend
+html and css and js as a frontend
+
+In order to run the project implementation:
+Backend: join NodeJS folder and run the following command: npm run dev. to check if it works correctly go to your web browser and check http://127.0.0.1:3000
+
+Frontend: install Live Server on your VS Code , join part3 folder and right-click on any file html file and click "open with Live Server"
